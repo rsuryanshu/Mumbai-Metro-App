@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="station_array">
+        <item>VERSOVA</item>
+        <item>D N NAGAR</item>
+        <item>AZAD NAGAR</item>
+        <item>ANDHERI</item>
+        <item>WESTERN EXP HIGHWAY</item>
+        <item>J B NAGAR</item>
+        <item>AIRPORT ROAD</item>
+        <item>MAROL NAKA</item>
+        <item>SAKI NAKA</item>
+        <item>ASALPHA</item>
+        <item>JAGRUTI NAGAR</item>
+        <item>GHATKOPAR</item>
+    </string-array>
+
+
+
+</resources>

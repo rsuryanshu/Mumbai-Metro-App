@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ghatkopar_to_versova">
+        <item>08:33 AM GHATKOPAR-VERSOVA</item>
+        <item>08:37 AM GHATKOPAR-VERSOVA</item>
+        <item>08:41 AM GHATKOPAR-VERSOVA</item>
+        <item>08:45 AM GHATKOPAR-VERSOVA</item>
+        <item>08:48 AM GHATKOPAR-VERSOVA</item>
+        <item>08:52 AM GHATKOPAR-VERSOVA</item>
+        <item>08:56 AM GHATKOPAR-VERSOVA</item>
+        <item>09:00 AM GHATKOPAR-VERSOVA</item>
+        <item>09:04 AM GHATKOPAR-VERSOVA</item>
+        <item>09:07 AM GHATKOPAR-VERSOVA</item>
+        <item>09:11 AM GHATKOPAR-VERSOVA</item>
+        <item>09:15 AM GHATKOPAR-VERSOVA</item>
+        <item>09:19 AM GHATKOPAR-VERSOVA</item>
+        <item>09:23 AM GHATKOPAR-VERSOVA</item>
+        <item>09:26 AM GHATKOPAR-VERSOVA</item>
+        <item>09:30 AM GHATKOPAR-VERSOVA</item>
+        <item>09:34 AM GHATKOPAR-VERSOVA</item>
+        <item>09:38 AM GHATKOPAR-VERSOVA</item>
+        <item>09:42 AM GHATKOPAR-VERSOVA</item>
+        <item>09:45 AM GHATKOPAR-VERSOVA</item>
+        <item>09:49 AM GHATKOPAR-VERSOVA</item>
+        <item>09:53 AM GHATKOPAR-VERSOVA</item>
+        <item>09:57 AM GHATKOPAR-VERSOVA</item>
+        <item>10:01 AM GHATKOPAR-VERSOVA</item>
+        <item>10:04 AM GHATKOPAR-VERSOVA</item>
+        <item>10:08 AM GHATKOPAR-VERSOVA</item>
+        <item>10:12 AM GHATKOPAR-VERSOVA</item>
+        <item>10:16 AM GHATKOPAR-VERSOVA</item>
+        <item>10:20 AM GHATKOPAR-VERSOVA</item>
+        <item>10:25 AM GHATKOPAR-VERSOVA</item>
+        <item>10:30 AM GHATKOPAR-VERSOVA</item>
+        <item>10:35 AM GHATKOPAR-VERSOVA</item>
+        <item>10:40 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="versova_to_ghatkopar">
+        <item>08:32 AM VERSOVA-GHATKOPAR</item>
+        <item>08:36 AM VERSOVA-GHATKOPAR</item>
+        <item>08:40 AM VERSOVA-GHATKOPAR</item>
+        <item>08:44 AM VERSOVA-GHATKOPAR</item>
+        <item>08:47 AM VERSOVA-GHATKOPAR</item>
+        <item>08:51 AM VERSOVA-GHATKOPAR</item>
+        <item>08:55 AM VERSOVA-GHATKOPAR</item>
+        <item>08:59 AM VERSOVA-GHATKOPAR</item>
+        <item>09:03 AM VERSOVA-GHATKOPAR</item>
+        <item>09:06 AM VERSOVA-GHATKOPAR</item>
+        <item>09:10 AM VERSOVA-GHATKOPAR</item>
+        <item>09:14 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="jagrutinagar_to_versova">
+        <item>08:36 AM GHATKOPAR-VERSOVA</item>
+        <item>08:40 AM GHATKOPAR-VERSOVA</item>
+        <item>08:44 AM GHATKOPAR-VERSOVA</item>
+        <item>08:48 AM GHATKOPAR-VERSOVA</item>
+        <item>08:51 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="dnnagar_to_ghatkopar">
+        <item>08:34 AM VERSOVA-GHATKOPAR</item>
+        <item>08:38 AM VERSOVA-GHATKOPAR</item>
+        <item>08:42 AM VERSOVA-GHATKOPAR</item>
+        <item>08:46 AM VERSOVA-GHATKOPAR</item>
+        <item>08:49 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="asalpha_to_versova">
+        <item>08:38 AM GHATKOPAR-VERSOVA</item>
+        <item>08:42 AM GHATKOPAR-VERSOVA</item>
+        <item>08:46 AM GHATKOPAR-VERSOVA</item>
+        <item>08:50 AM GHATKOPAR-VERSOVA</item>
+        <item>08:53 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="azadnagar_to_ghatkopar">
+        <item>08:35 AM VERSOVA-GHATKOPAR</item>
+        <item>08:39 AM VERSOVA-GHATKOPAR</item>
+        <item>08:43 AM VERSOVA-GHATKOPAR</item>
+        <item>08:47 AM VERSOVA-GHATKOPAR</item>
+        <item>08:50 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="sakinaka_to_versova">
+        <item>08:40 AM GHATKOPAR-VERSOVA</item>
+        <item>08:44 AM GHATKOPAR-VERSOVA</item>
+        <item>08:48 AM GHATKOPAR-VERSOVA</item>
+        <item>08:52 AM GHATKOPAR-VERSOVA</item>
+        <item>08:55 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="andheri_to_ghatkopar">
+        <item>08:38 AM VERSOVA-GHATKOPAR</item>
+        <item>08:42 AM VERSOVA-GHATKOPAR</item>
+        <item>08:46 AM VERSOVA-GHATKOPAR</item>
+        <item>08:50 AM VERSOVA-GHATKOPAR</item>
+        <item>08:53 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="marolnaka_to_versova">
+        <item>08:42 AM GHATKOPAR-VERSOVA</item>
+        <item>08:46 AM GHATKOPAR-VERSOVA</item>
+        <item>08:50 AM GHATKOPAR-VERSOVA</item>
+        <item>08:54 AM GHATKOPAR-VERSOVA</item>
+        <item>08:57 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="westernexp_to_ghatkopar">
+        <item>08:40 AM VERSOVA-GHATKOPAR</item>
+        <item>08:44 AM VERSOVA-GHATKOPAR</item>
+        <item>08:48 AM VERSOVA-GHATKOPAR</item>
+        <item>08:52 AM VERSOVA-GHATKOPAR</item>
+        <item>08:55 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="airportroad_to_versova">
+        <item>08:44 AM GHATKOPAR-VERSOVA</item>
+        <item>08:48 AM GHATKOPAR-VERSOVA</item>
+        <item>08:52 AM GHATKOPAR-VERSOVA</item>
+        <item>08:56 AM GHATKOPAR-VERSOVA</item>
+        <item>08:59 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="jbnagar_to_ghatkopar">
+        <item>08:43 AM VERSOVA-GHATKOPAR</item>
+        <item>08:47 AM VERSOVA-GHATKOPAR</item>
+        <item>08:51 AM VERSOVA-GHATKOPAR</item>
+        <item>08:55 AM VERSOVA-GHATKOPAR</item>
+        <item>08:58 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="jbnagar_to_versova">
+        <item>08:45 AM GHATKOPAR-VERSOVA</item>
+        <item>08:49 AM GHATKOPAR-VERSOVA</item>
+        <item>08:53 AM GHATKOPAR-VERSOVA</item>
+        <item>08:57 AM GHATKOPAR-VERSOVA</item>
+        <item>09:00 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="airportroad_to_ghatkopar">
+        <item>08:44 AM VERSOVA-GHATKOPAR</item>
+        <item>08:48 AM VERSOVA-GHATKOPAR</item>
+        <item>08:52 AM VERSOVA-GHATKOPAR</item>
+        <item>08:56 AM VERSOVA-GHATKOPAR</item>
+        <item>08:59 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="westernexp_to_versova">
+        <item>08:48 AM GHATKOPAR-VERSOVA</item>
+        <item>08:52 AM GHATKOPAR-VERSOVA</item>
+        <item>08:56 AM GHATKOPAR-VERSOVA</item>
+        <item>09:00 AM GHATKOPAR-VERSOVA</item>
+        <item>09:03 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="marolnaka_to_ghatkopar">
+        <item>08:46 AM VERSOVA-GHATKOPAR</item>
+        <item>08:50 AM VERSOVA-GHATKOPAR</item>
+        <item>08:54 AM VERSOVA-GHATKOPAR</item>
+        <item>08:58 AM VERSOVA-GHATKOPAR</item>
+        <item>09:01 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="andheri_to_versova">
+        <item>08:50 AM GHATKOPAR-VERSOVA</item>
+        <item>08:54 AM GHATKOPAR-VERSOVA</item>
+        <item>08:58 AM GHATKOPAR-VERSOVA</item>
+        <item>09:02 AM GHATKOPAR-VERSOVA</item>
+        <item>09:05 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="sakinaka_to_ghatkopar">
+        <item>08:48 AM VERSOVA-GHATKOPAR</item>
+        <item>08:52 AM VERSOVA-GHATKOPAR</item>
+        <item>08:56 AM VERSOVA-GHATKOPAR</item>
+        <item>09:00 AM VERSOVA-GHATKOPAR</item>
+        <item>09:03 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="azadnagar_to_versova">
+        <item>08:52 AM GHATKOPAR-VERSOVA</item>
+        <item>08:56 AM GHATKOPAR-VERSOVA</item>
+        <item>09:00 AM GHATKOPAR-VERSOVA</item>
+        <item>09:04 AM GHATKOPAR-VERSOVA</item>
+        <item>09:07 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="asalpha_to_ghatkopar">
+        <item>08:50 AM VERSOVA-GHATKOPAR</item>
+        <item>08:54 AM VERSOVA-GHATKOPAR</item>
+        <item>08:58 AM VERSOVA-GHATKOPAR</item>
+        <item>09:02 AM VERSOVA-GHATKOPAR</item>
+        <item>09:05 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="dnnagar_to_versova">
+        <item>08:54 AM GHATKOPAR-VERSOVA</item>
+        <item>08:58 AM GHATKOPAR-VERSOVA</item>
+        <item>09:02 AM GHATKOPAR-VERSOVA</item>
+        <item>09:06 AM GHATKOPAR-VERSOVA</item>
+        <item>09:09 AM GHATKOPAR-VERSOVA</item>
+    </string-array>
+
+    <string-array name="jagrutinagar_to_ghatkopar">
+        <item>08:52 AM VERSOVA-GHATKOPAR</item>
+        <item>08:56 AM VERSOVA-GHATKOPAR</item>
+        <item>09:00 AM VERSOVA-GHATKOPAR</item>
+        <item>09:04 AM VERSOVA-GHATKOPAR</item>
+        <item>09:07 AM VERSOVA-GHATKOPAR</item>
+    </string-array>
+
+</resources>

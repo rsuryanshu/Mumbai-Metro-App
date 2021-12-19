@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_logo"
+        android:title="Share App"/>
+
+    <item
+        android:id="@+id/action_live_traffic"
+        android:icon="@drawable/ic_traffic"
+        android:title="Live Traffic Status"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_emergency"
+        android:icon="@drawable/ic_contact"
+        android:title="Emergency Contacts"/>
+
+
+</menu>

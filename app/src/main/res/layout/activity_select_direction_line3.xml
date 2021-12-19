@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectDirectionLine3Activity"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AAREY"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:paddingBottom="15dp"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <ImageButton
+            android:id="@+id/aarey"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/up_arrow"
+            android:scaleType="fitXY"
+            android:maxHeight="60dp"
+            android:minHeight="60dp"
+            android:background="#FFFF"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/train_track"
+            android:background="#FFFF"
+            android:layout_margin="15dp"/>
+
+        <ImageButton
+            android:id="@+id/cuffeparade"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/down_arrow"
+            android:scaleType="fitXY"
+            android:maxHeight="60dp"
+            android:minHeight="60dp"
+            android:background="#FFFF"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CUFFE PARADE"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingTop="15dp"/>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

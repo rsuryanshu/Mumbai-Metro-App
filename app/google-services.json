@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738258450544",
+    "firebase_url": "https://mumbai-metro-official.firebaseio.com",
+    "project_id": "mumbai-metro-official",
+    "storage_bucket": "mumbai-metro-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738258450544:android:d01308ed34a41438899cb5",
+        "android_client_info": {
+          "package_name": "com.sahanidevelopers.mumbaimetro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738258450544-37pdnsu59ddi3kdvaps6r0hem1m3vmsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZGtLEMhW_ZqxZ7xQCxDPnIgyd8PMcQzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738258450544-37pdnsu59ddi3kdvaps6r0hem1m3vmsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ghatkopar_versova">
+        <item>VERSOVA</item>
+        <item>D N NAGAR</item>
+        <item>AZAD NAGAR</item>
+        <item>ANDHERI</item>
+        <item>WESTERN EXP HIGHWAY</item>
+        <item>J B NAGAR</item>
+        <item>AIRPORT ROAD</item>
+        <item>MAROL NAKA</item>
+        <item>SAKI NAKA</item>
+        <item>ASALPHA</item>
+        <item>JAGRUTI NAGAR</item>
+        <item>GHATKOPAR</item>
+    </string-array>
+
+    <string-array name="versova_ghatkopar">
+        <item>GHATKOPAR</item>
+        <item>JAGRUTI NAGAR</item>
+        <item>ASALPHA</item>
+        <item>SAKI NAKA</item>
+        <item>MAROL NAKA</item>
+        <item>AIRPORT ROAD</item>
+        <item>J B NAGAR</item>
+        <item>WESTERN EXP HIGHWAY</item>
+        <item>ANDHERI</item>
+        <item>AZAD NAGAR</item>
+        <item>D N NAGAR</item>
+        <item>VERSOVA</item>
+    </string-array>
+
+    <string-array name="dahisar_mandale">
+        <item>DAHISAR</item>
+        <item>ANAND NAGAR</item>
+        <item>RUSHI SANKUL</item>
+        <item>IC COLONY</item>
+        <item>EKSAR</item>
+        <item>DON BOSCO</item>
+        <item>SHIMPOLI</item>
+        <item>MAHAVIR NAGAR</item>
+        <item>KAMRAJ NAGAR</item>
+        <item>CHARKOP</item>
+        <item>MALAD METRO</item>
+        <item>KASTURI PARK</item>
+        <item>BANGUR NAGAR</item>
+        <item>GOREGAON METRO</item>
+        <item> ADARSH NAGAR</item>
+        <item>SHASTRI NAGAR</item>
+        <item>DN NAGAR</item>
+        <item>ESIC NAGAR</item>
+        <item>PREM NAGAR</item>
+        <item>INDIRA NAGAR</item>
+        <item>NANAVATI HOSPITAL</item>
+        <item>KHIRA NAGAR</item>
+        <item>SARASWAT NAGAR</item>
+        <item>NATIONAL COLLEGE</item>
+        <item>BANDRA METRO</item>
+        <item>MMRDA</item>
+        <item>ITO BKC</item>
+        <item>IL FS BKC</item>
+        <item>MTNL BKC</item>
+        <item>SG BARVE MARG</item>
+        <item>KURLA TERMINUS</item>
+        <item>KURLA EAST</item>
+        <item>EEH</item>
+        <item>VNP AND RC MARG</item>
+        <item>DIAMOND GARDEN</item>
+        <item>SHIVAJI CHOWK</item>
+        <item>BSNK</item>
+        <item>MANKHURD</item>
+        <item>MANDALE</item>
+    </string-array>
+
+    <string-array name="mandale_dahisar">
+        <item>MANDALE</item>
+        <item>MANKHURD</item>
+        <item>BSNK</item>
+        <item>SHIVAJI CHOWK</item>
+        <item>DIAMOND GARDEN</item>
+        <item>VNP AND RC MARG</item>
+        <item>EEH</item>
+        <item>KURLA EAST</item>
+        <item>KURLA TERMINUS</item>
+        <item>SG BARVE MARG</item>
+        <item>MTNL BKC</item>
+        <item>IL FS BKC</item>
+        <item>ITO BKC</item>
+        <item>MMRDA</item>
+        <item>BANDRA METRO</item>
+        <item>NATIONAL COLLEGE</item>
+        <item>SARASWAT NAGAR</item>
+        <item>KHIRA NAGAR</item>
+        <item>NANAVATI HOSPITAL</item>
+        <item>INDIRA NAGAR</item>
+        <item>PREM NAGAR</item>
+        <item>ESIC NAGAR</item>
+        <item>DN NAGAR</item>
+        <item>SHASTRI NAGAR</item>
+        <item> ADARSH NAGAR</item>
+        <item>GOREGAON METRO</item>
+        <item>BANGUR NAGAR</item>
+        <item>KASTURI PARK</item>
+        <item>MALAD METRO</item>
+        <item>CHARKOP</item>
+        <item>KAMRAJ NAGAR</item>
+        <item>MAHAVIR NAGAR</item>
+        <item>SHIMPOLI</item>
+        <item>DON BOSCO</item>
+        <item>EKSAR</item>
+        <item>IC COLONY</item>
+        <item>RUSHI SANKUL</item>
+        <item>ANAND NAGAR</item>
+        <item>DAHISAR</item>
+    </string-array>
+
+
+    <string-array name="aarey_cuffeparade">
+        <item>AAREY</item>
+        <item>SEEPZ VILLAGE</item>
+        <item>MIDC</item>
+        <item>MAROL NAKA</item>
+        <item>CSIA TERMINAL 2</item>
+        <item>SAHAR ROAD</item>
+        <item>CSIA TERMINAL 1</item>
+        <item>SANTACRUZ</item>
+        <item>VIDYANAGARI</item>
+        <item>ITO BKC</item>
+        <item>DHARAVI</item>
+        <item>SHITLADEVI</item>
+        <item>DADAR</item>
+        <item>SIDDHIVINAYAK</item>
+        <item>WORLI</item>
+        <item>ACHARYA ATRE CHOWK</item>
+        <item>SCIENCE MUSEUM</item>
+        <item>MAHALAXMI METRO</item>
+        <item>MUMBAI CENTRAL METRO</item>
+        <item>GIRGAON</item>
+        <item>KALBADEVI</item>
+        <item>MUMBAI CSMT</item>
+        <item>MUTATMA CHOWK</item>
+        <item>CHURCHGATE</item>
+        <item>VIDHAN BHAVAN</item>
+        <item>CUFFE PARADE</item>
+    </string-array>
+
+    <string-array name="cuffeparade_aarey">
+        <item>CUFFE PARADE</item>
+        <item>VIDHAN BHAVAN</item>
+        <item>CHURCHGATE</item>
+        <item>MUTATMA CHOWK</item>
+        <item>MUMBAI CSMT</item>
+        <item>KALBADEVI</item>
+        <item>GIRGAON</item>
+        <item>MUMBAI CENTRAL METRO</item>
+        <item>MAHALAXMI METRO</item>
+        <item>SCIENCE MUSEUM</item>
+        <item>ACHARYA ATRE CHOWK</item>
+        <item>WORLI</item>
+        <item>SIDDHIVINAYAK</item>
+        <item>DADAR</item>
+        <item>SHITLADEVI</item>
+        <item>DHARAVI</item>
+        <item>ITO BKC</item>
+        <item>VIDYANAGARI</item>
+        <item>SANTACRUZ</item>
+        <item>CSIA TERMINAL 1</item>
+        <item>SAHAR ROAD</item>
+        <item>CSIA TERMINAL 2</item>
+        <item>MAROL NAKA</item>
+        <item>MIDC</item>
+        <item>SEEPZ VILLAGE</item>
+        <item>AAREY</item>
+    </string-array>
+
+</resources>

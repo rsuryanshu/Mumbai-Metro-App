@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mumbai Metro</string>
+    <string name="welcome">WELCOME</string>
+
+    <string name="home">Home</string>
+    <string name="about">About Us</string>
+    <string name="contact">Contact Us</string>
+    <string name="todo">TODO</string>
+    <string name="signout">Sign Out</string>
+
+
+    <string name="open">Open Now</string>
+    <string name="close">Close</string>
+    <string name="aboutText">Mumbai Metro App provide all the details related to Metro like Schedule, Fare, Route, Maps and Metro Card Recharge to Users.</string>
+
+</resources>
